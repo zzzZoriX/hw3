@@ -19,7 +19,7 @@ body {
     border-radius: 1rem;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
     width: 100%;
     font-family: "Helvetica Neue", cursive;
