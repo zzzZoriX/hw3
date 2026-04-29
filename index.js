@@ -1,27 +1,31 @@
 function goToTask1() {
-    window.location.href = "task1.html";
+    window.location.href = "tasks/task1.html";
 }
 
 function goToTask2() {
-    window.location.href = "task2.html";
+    window.location.href = "tasks/task2.html";
 }
 
 function goToTask3() {
-    window.location.href = "task3.html";
+    window.location.href = "tasks/task3.html";
 }
 
 function goToTask4() {
-    window.location.href = "task4.html";
+    window.location.href = "tasks/task4.html";
 }
 
 function goToTask5() {
-    window.location.href = "task5.html";
+    window.location.href = "tasks/task5.html";
 }
 
 function goToTask6() {
-    window.location.href = "task6.html";
+    window.location.href = "tasks/task6.html";
 }
 
 function goToTask7() {
-    window.location.href = "task7.html";
+    window.location.href = "tasks/task7.html";
+}
+
+function goToMain(){
+    window.location.href = "../index.html";
 }
