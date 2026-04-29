@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eefad9f-be89-4b98-8061-dce8c0906f4d" name="Changes" comment="oбновил css">
+    <list default="true" id="7eefad9f-be89-4b98-8061-dce8c0906f4d" name="Changes" comment="создал файлы для заданий">
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -76,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1777470997520</updated>
-      <workItem from="1777470998549" duration="1725000" />
+      <workItem from="1777470998549" duration="3777000" />
     </task>
     <task id="LOCAL-00001" summary="добавил css">
       <option name="closed" value="true" />
@@ -94,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777472402409</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="создал файлы для заданий">
+      <option name="closed" value="true" />
+      <created>1777472959919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777472959919</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавил css" />
     <MESSAGE value="oбновил css" />
-    <option name="LAST_COMMIT_MESSAGE" value="oбновил css" />
+    <MESSAGE value="создал файлы для заданий" />
+    <option name="LAST_COMMIT_MESSAGE" value="создал файлы для заданий" />
   </component>
 </project>

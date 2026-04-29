@@ -19,6 +19,38 @@ body {
     border-radius: 1rem;
 }
 
+.tasks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    background: linear-gradient(to left, lightpink, mediumvioletred);
+    width: 85%;
+    height: 50rem;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+.task {
+    width: 10rem;
+    height: 10rem;
+    margin: 2rem;
+
+    display: flex;
+    justify-content: left;
+    font-size: 20px;
+    font-family: cursive;
+
+    border-radius: 10px;
+}
+
+.task:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px white;
+}
+
 h1, h2 {
     text-align: center;
     width: 100%;
